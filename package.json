@@ -1,0 +1,23 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "express.js test app created by joel foster",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelsfoster/expressApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelsfoster/expressApp/issues"
+  },
+  "homepage": "https://github.com/joelsfoster/expressApp#readme"
+}
